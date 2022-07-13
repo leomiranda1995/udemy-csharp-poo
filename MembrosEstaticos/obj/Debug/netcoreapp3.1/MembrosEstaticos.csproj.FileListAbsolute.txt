@@ -1,0 +1,14 @@
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.exe
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.deps.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.dev.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.dll
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.dll
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.genruntimeconfig.cache
