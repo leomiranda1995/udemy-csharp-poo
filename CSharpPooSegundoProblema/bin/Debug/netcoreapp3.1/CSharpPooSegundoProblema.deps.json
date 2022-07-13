@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharpPooSegundoProblema/1.0.0": {
+        "runtime": {
+          "CSharpPooSegundoProblema.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpPooSegundoProblema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

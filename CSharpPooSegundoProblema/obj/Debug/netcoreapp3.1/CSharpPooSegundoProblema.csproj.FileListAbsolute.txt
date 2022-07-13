@@ -1,0 +1,14 @@
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\bin\Debug\netcoreapp3.1\CSharpPooSegundoProblema.exe
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\bin\Debug\netcoreapp3.1\CSharpPooSegundoProblema.deps.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\bin\Debug\netcoreapp3.1\CSharpPooSegundoProblema.runtimeconfig.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\bin\Debug\netcoreapp3.1\CSharpPooSegundoProblema.runtimeconfig.dev.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\bin\Debug\netcoreapp3.1\CSharpPooSegundoProblema.dll
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\bin\Debug\netcoreapp3.1\CSharpPooSegundoProblema.pdb
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\obj\Debug\netcoreapp3.1\CSharpPooSegundoProblema.csproj.AssemblyReference.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\obj\Debug\netcoreapp3.1\CSharpPooSegundoProblema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\obj\Debug\netcoreapp3.1\CSharpPooSegundoProblema.AssemblyInfoInputs.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\obj\Debug\netcoreapp3.1\CSharpPooSegundoProblema.AssemblyInfo.cs
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\obj\Debug\netcoreapp3.1\CSharpPooSegundoProblema.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\obj\Debug\netcoreapp3.1\CSharpPooSegundoProblema.dll
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\obj\Debug\netcoreapp3.1\CSharpPooSegundoProblema.pdb
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CSharpPooSegundoProblema\obj\Debug\netcoreapp3.1\CSharpPooSegundoProblema.genruntimeconfig.cache
