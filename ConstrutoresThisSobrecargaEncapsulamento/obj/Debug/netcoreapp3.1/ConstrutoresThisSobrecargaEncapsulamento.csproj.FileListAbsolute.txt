@@ -1,0 +1,14 @@
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\bin\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.exe
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\bin\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.deps.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\bin\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.runtimeconfig.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\bin\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.runtimeconfig.dev.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\bin\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.dll
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\bin\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.pdb
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\obj\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\obj\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\obj\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\obj\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.AssemblyInfo.cs
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\obj\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\obj\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.dll
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\obj\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.pdb
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\ConstrutoresThisSobrecargaEncapsulamento\obj\Debug\netcoreapp3.1\ConstrutoresThisSobrecargaEncapsulamento.genruntimeconfig.cache
