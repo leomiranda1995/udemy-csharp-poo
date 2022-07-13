@@ -1,0 +1,14 @@
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\bin\Debug\netcoreapp3.1\CsharpPooUdemy.exe
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\bin\Debug\netcoreapp3.1\CsharpPooUdemy.deps.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\bin\Debug\netcoreapp3.1\CsharpPooUdemy.runtimeconfig.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\bin\Debug\netcoreapp3.1\CsharpPooUdemy.runtimeconfig.dev.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\bin\Debug\netcoreapp3.1\CsharpPooUdemy.dll
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\bin\Debug\netcoreapp3.1\CsharpPooUdemy.pdb
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\obj\Debug\netcoreapp3.1\CsharpPooUdemy.csproj.AssemblyReference.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\obj\Debug\netcoreapp3.1\CsharpPooUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\obj\Debug\netcoreapp3.1\CsharpPooUdemy.AssemblyInfoInputs.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\obj\Debug\netcoreapp3.1\CsharpPooUdemy.AssemblyInfo.cs
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\obj\Debug\netcoreapp3.1\CsharpPooUdemy.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\obj\Debug\netcoreapp3.1\CsharpPooUdemy.dll
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\obj\Debug\netcoreapp3.1\CsharpPooUdemy.pdb
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\CsharpPooUdemy\obj\Debug\netcoreapp3.1\CsharpPooUdemy.genruntimeconfig.cache
