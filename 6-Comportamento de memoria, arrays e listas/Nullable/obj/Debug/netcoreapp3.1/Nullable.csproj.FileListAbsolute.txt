@@ -1,0 +1,14 @@
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.AssemblyReference.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\obj\Debug\netcoreapp3.1\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\leonardo.miranda\Desktop\udemy-csharp-poo\6-Comportamento de memoria, arrays e listas\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache
