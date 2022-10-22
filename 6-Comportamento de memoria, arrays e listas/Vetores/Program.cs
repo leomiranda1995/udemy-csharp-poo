@@ -9,24 +9,26 @@ namespace Vetores
         {
             int n = int.Parse(Console.ReadLine());
 
-            double[] vet = new double[n];
-            
+            Product[] vet = new Product[n];
+
             for (int i = 0; i < n; i++)
             {
-                vet[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                string name = Console.ReadLine();
+                double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+                vet[i] = new Product { Name = name, Price = price };
             }
 
-            double soma = 0;
+            double soma = 0.0;
 
-            for(int i = 0; i < n; i++)
+            for (int i = 0; i < vet.Length; i++)
             {
-                soma += vet[i];
-                Console.WriteLine($"Vet[{i}] = {vet[i]}");
+                soma += vet[i].Price;
             }
 
-            double media = soma / n;
+            double media = soma / vet.Length;
 
-            Console.WriteLine($"Media = {media.ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"Media R$ {media.ToString("F2", CultureInfo.InvariantCulture)}");
         }
     }
 }
