@@ -22,19 +22,7 @@ namespace Matrizes
 
             int[,] matriz = new int[ordemMatriz, ordemMatriz];
 
-            for (int i = 0; i < matriz.GetLength(0); i++)
-            {
-                for (int j = 0; j < matriz.GetLength(1); j++)
-                {
-                    Console.Write($"\nInforme o valor da matriz na posição [{i},{j}]: ");
-                    matriz[i, j] = int.Parse(Console.ReadLine());
-                }
-            }
-
-            Console.WriteLine("\n--------------------------------");
-
-            Console.Write("\nDiagonal Principal: ");
-
+            List<int> diagonalPrincipal = new List<int>();
             List<int> numerosNegativos = new List<int>();
             int totalNumerosNegativos = 0;
 
@@ -42,23 +30,29 @@ namespace Matrizes
             {
                 for (int j = 0; j < matriz.GetLength(1); j++)
                 {
+                    Console.Write($"\nInforme o valor da matriz na posição [{i},{j}]: ");
+                    matriz[i, j] = int.Parse(Console.ReadLine());
+
+
                     if (matriz[i, j] < 0)
                     {
-                        numerosNegativos.Add(matriz[i,j]);
+                        numerosNegativos.Add(matriz[i, j]);
                         totalNumerosNegativos++;
                     }
 
                     if (i == j)
                     {
-                        Console.Write(matriz[i,j]);
-
-                        if ((i != (matriz.GetLength(0) - 1)) &&
-                            (j != (matriz.GetLength(1) - 1)))
-                            {
-                                Console.Write(", ");
-                            }
-                    }                    
+                        diagonalPrincipal.Add(matriz[i, j]);
+                    }
                 }
+            }
+
+            Console.WriteLine("\n--------------------------------");
+
+            Console.Write("\nDiagonal Principal: ");
+            foreach (int diagonal in diagonalPrincipal)
+            {
+                Console.Write($"{diagonal}, ");
             }
 
             Console.Write($"\n\nTotal Números negativos: {totalNumerosNegativos}");
